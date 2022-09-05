@@ -1,5 +1,5 @@
-![I am a senior software developer](https://scontent.fdac138-1.fna.fbcdn.net/v/t1.6435-1/82775262_10221536846714331_7029432248759746560_n.jpg?stp=dst-jpg_p200x200&_nc_cat=106&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeHFL1i_9HiBcEZVmMMf4e3HI8MY59qPWR4jwxjn2o9ZHpvbXCAqKS4Nyapq_aDMS9c&_nc_ohc=LlhMG7-Qg1AAX-KM5q9&tn=nKtTLpW-Gzfe1Mw8&_nc_ht=scontent.fdac138-1.fna&oh=00_AT_IlV3KsPSiQY0hXcuRoNWoHwIcHxO7gcFL2zOnOALfwA&oe=632C3E3E)
-### Hi there 👋, my name is Abul Bashar
+![I am a senior software developer]
+### Hi there 👋, I'm Abul Bashar
 #### Senior/Team-lead Software Developer
 
 Proven and hard-working team lead software engineer with 11+ years of experience in creating and executing innovative software solutions to enhance business productivity. I’m eager to solve creative problems and develop user-friendly systems for the users. Highly experienced in all aspects of the software development lifecycle and end-to-end project management, from concept through to development and delivery.
